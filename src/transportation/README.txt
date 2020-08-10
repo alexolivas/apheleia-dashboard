@@ -1,0 +1,1 @@
+This folder contains all components related to the widget containing info about "next bus/train" near our house

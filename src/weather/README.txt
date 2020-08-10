@@ -1,0 +1,1 @@
+This folder contains all components related to weather
